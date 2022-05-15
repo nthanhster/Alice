@@ -3,7 +3,7 @@ Run object detections effortless.
 
 ## Getting started:
 ```bash
-git clone https://github.com/nthanhster/stonks.git # clones repo
+git clone https://github.com/nthanhster/Alice.git # clones repo
 sudo pip3 install virtualenv
 python3 -m venv /path/to/new/virtual/environment
 source env/bin/activate # activates virtual env
