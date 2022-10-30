@@ -1,5 +1,5 @@
 # Alice - a simple object detection model
-Run object detections effortless.
+Run object detections effortlessly.
 
 ## Getting started:
 ```bash
